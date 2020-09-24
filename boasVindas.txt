@@ -1,1 +1,4 @@
-Aqui teremos um texto qualquer...
+Aqui teremos um texto qualquer.
+
+
+Agora eu já vou fazer ajustes no arquivo.
