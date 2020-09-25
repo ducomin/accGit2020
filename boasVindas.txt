@@ -1,4 +1,7 @@
 Aqui teremos um texto qualquer.
 
 
-Agora eu j� vou fazer ajustes no arquivo.
+Agora eu já vou fazer ajustes no arquivo.
+
+
+Este é um teste para verificar os ajustes direto no github
